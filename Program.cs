@@ -3,6 +3,8 @@
 string contacts = "";
 int numberOfPeopleInList = 0;
 
+//commit test
+
 while (true)
 {
     Console.Clear();
